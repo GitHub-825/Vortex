@@ -17,6 +17,7 @@ class _ProfilePageState extends State<ProfilePage> {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             SizedBox(height: 20,),
+            //this is picture box niggas
             Center(
               child: Container(
                 height: 150,
